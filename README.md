@@ -6,4 +6,4 @@ In this project, we will demonstrate how to use the Keras neural network library
 
 The project was based off of the [Keras MNIST tutorial](https://github.com/wxs/keras-mnist-tutorial) by [wxs](https://github.com/wxs).
 
-If you want to get this running on your own computer, please refer to the [https://keras.io/#installation](Keras installation guide) for the details on how to install Keras on your machine. 
+If you want to get this running on your own computer, please refer to the [Keras installation guide](https://keras.io/#installation) for the details on how to install Keras on your machine. 
